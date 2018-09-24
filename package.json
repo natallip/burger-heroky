@@ -1,8 +1,12 @@
 {
-  "name": "server",
+  "name": "Mr Burger",
   "version": "1.0.0",
-  "description": "server-part",
+  "description": "",
   "main": "src/index.js",
+  "engines": {
+    "node": "8.9.4",
+    "npm": "5.6.0"
+  },
   "scripts": {
     "start": "nodemon --ext js --watch src",
     "test": "echo \"Error: no test specified\" && exit 1"
