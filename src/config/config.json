@@ -1,0 +1,14 @@
+{
+  "mongodb": "mongodb://mishka:mishka123@ds125422.mlab.com:25422/mishka",
+  "mail": {
+    "subject": "Сообщение с сайта Burger",
+    "smtp": {
+    "service": "Gmail",
+      "secure": true,
+      "auth": {
+      "user": "mySuperTest8@gmail.com",
+        "pass": "s5gg2t5ewa"
+      }
+    }
+  }
+}
